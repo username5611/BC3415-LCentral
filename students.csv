@@ -1,0 +1,6 @@
+student_id,student_name,parent_name,phone,level,class_ids
+S001,Chloe Lim,Karen Lim,9000 0001,P6,C05;C08
+S002,Ryan Ng,David Ng,9000 0002,Sec 3,C15;C17
+S003,Aisha Rahman,Nurul Rahman,9000 0003,Sec 1,C12;C13
+S004,Marcus Lee,Jenny Lee,9000 0004,P4,C02
+S005,Sophie Goh,Michelle Goh,9000 0005,Sec 4,C19;C18

@@ -1,0 +1,33 @@
+class_id,subject,level,day,start_time,end_time,tutor,room,capacity,enrolled,monthly_fee
+C01,Maths,P3,Saturday,09:00,11:00,Ms Hui Min Tan,Room 1,8,5,220
+C02,Maths,P4,Saturday,11:30,13:30,Ms Hui Min Tan,Room 1,8,6,220
+C03,Maths,P5,Saturday,09:00,11:00,Ms Grace Lim,Room 2,8,6,260
+C04,Maths,P5,Sunday,14:00,16:00,Ms Grace Lim,Room 2,8,8,260
+C05,Maths,P6,Wednesday,16:00,18:00,Ms Grace Lim,Room 2,8,7,260
+C06,Maths,P6,Sunday,09:00,11:00,Ms Grace Lim,Room 2,8,5,260
+C07,Science,P5,Tuesday,16:00,18:00,Mr Daniel Koh,Room 3,8,4,260
+C08,Science,P6,Saturday,14:00,16:00,Mr Daniel Koh,Room 3,8,7,260
+C09,Science,P6,Thursday,16:00,18:00,Mr Daniel Koh,Room 3,8,3,260
+C10,English,P5,Friday,16:00,18:00,Ms Priya Nair,Room 1,8,5,260
+C11,English,P6,Saturday,14:00,16:00,Ms Priya Nair,Room 1,8,6,260
+C12,Maths,Sec 1,Tuesday,18:30,20:30,Ms Hui Min Tan,Room 1,8,4,280
+C13,English,Sec 1,Sunday,11:30,13:30,Ms Priya Nair,Room 1,8,3,280
+C14,Science,Sec 2,Wednesday,18:30,20:30,Mr Daniel Koh,Room 3,8,5,280
+C15,A Maths,Sec 3,Thursday,18:30,20:30,Mr Jonathan Wee,Room 2,8,6,320
+C16,A Maths,Sec 3,Saturday,16:30,18:30,Mr Jonathan Wee,Room 2,8,4,320
+C17,Physics,Sec 3,Friday,18:30,20:30,Dr Sarah Chua,Room 3,8,5,320
+C18,E Maths,Sec 4,Sunday,14:00,16:00,Mr Jonathan Wee,Room 3,8,7,320
+C19,Chemistry,Sec 4,Saturday,11:30,13:30,Dr Sarah Chua,Room 3,8,8,320
+C20,Chemistry,Sec 4,Tuesday,18:30,20:30,Dr Sarah Chua,Room 3,8,4,320
+C21,Science,P3,Saturday,16:30,18:30,Mr Daniel Koh,Room 1,8,3,220
+C22,English,P3,Sunday,09:00,11:00,Ms Priya Nair,Room 1,8,2,220
+C23,Science,P4,Saturday,09:00,11:00,Mr Daniel Koh,Room 3,8,6,220
+C24,English,P4,Saturday,11:30,13:30,Ms Priya Nair,Room 2,8,4,220
+C25,Science,Sec 1,Sunday,09:00,11:00,Mr Daniel Koh,Room 3,8,6,280
+C26,Maths,Sec 2,Saturday,16:30,18:30,Ms Hui Min Tan,Room 3,8,2,280
+C27,English,Sec 2,Sunday,14:00,16:00,Ms Priya Nair,Room 1,8,5,280
+C28,E Maths,Sec 3,Sunday,11:30,13:30,Mr Jonathan Wee,Room 2,8,2,320
+C29,Chemistry,Sec 3,Saturday,14:00,16:00,Dr Sarah Chua,Room 2,8,2,320
+C30,English,Sec 3,Sunday,16:30,18:30,Ms Priya Nair,Room 1,8,2,320
+C31,A Maths,Sec 4,Sunday,16:30,18:30,Mr Jonathan Wee,Room 2,8,3,320
+C32,Physics,Sec 4,Sunday,11:30,13:30,Dr Sarah Chua,Room 3,8,6,320
